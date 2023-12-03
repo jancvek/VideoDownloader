@@ -27,3 +27,7 @@ Install the dependencies from requirements.txt (make sure that you are in main d
 ```sh
 pip install -r requirements.txt
 ```
+
+## Run app
+
+Run batch file (make sure that virtual environment name is venv)

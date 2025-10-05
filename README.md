@@ -2,6 +2,10 @@
 
 Personal project based on yt-dlp library.
 
+## Prerequests
+
+Make sure to add /Desktop/Kosarka/Prenosi/ !!!
+
 ## Installation
 
 Program requires [Python](https://www.python.org/downloads/) v3.9+ to run and package manager for Python (pip) instalation

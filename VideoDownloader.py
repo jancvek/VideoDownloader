@@ -15,7 +15,7 @@ if ytLink == "":
 
 # nastavimo pot do mape, kamor se bo posnetek shranil
 yt_opts = {
-    'paths': {"home":"${USERPROFILE}/Downloads/"}
+    'paths': {"home":"${USERPROFILE}/Desktop/Kosarka/Prenosi/"}
 }
 
 # by default je izbran posnetek z najboljso locljivostjo vendar ne vec kot 720p

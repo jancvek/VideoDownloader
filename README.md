@@ -5,6 +5,35 @@ Personal project based on yt-dlp library.
 ## Prerequests
 
 Make sure to add /Desktop/Kosarka/Prenosi/ !!!
+Make sure to install ffmpeg !!!
+
+## Installing FFmpeg (Windows)
+
+### Step 1: Download
+
+1. Open the official FFmpeg website.
+2. Under **Windows** builds, follow the link to the **gyan.dev** builds.
+3. On gyan.dev, download the archive:
+
+   - For most users, `ffmpeg-release-essentials.7z` is sufficient.
+
+### Step 2: Extract the archive
+
+1. Extract the `.7z` file using a tool like **7-Zip**.
+2. You will get a folder similar to:
+
+   - `ffmpeg-2025-xx-xx-essentials_build`
+
+### Step 3: Place FFmpeg next to your Python script
+
+Create an `ffmpeg` folder in the same directory as your Python script and move the extracted build there so that the structure looks like this:
+
+```text
+VideoDownloader\
+  VideoDownloader.py
+  ffmpeg\
+    bin\
+      ffmpeg.exe
 
 ## Installation
 

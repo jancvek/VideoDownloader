@@ -53,7 +53,7 @@ py -m venv .venv
 Go to virtual environment
 ```sh
 cd venv/Scripts
-activate
+.\activate
 ```
 
 Install the dependencies from requirements.txt (make sure that you are in main dir)

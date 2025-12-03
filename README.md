@@ -52,7 +52,7 @@ py -m venv .venv
 
 Go to virtual environment
 ```sh
-cd venv/Scripts
+cd .venv/Scripts
 .\activate
 ```
 
@@ -64,4 +64,4 @@ pip install -r requirements.txt
 
 ## Run app
 
-Run batch file (make sure that virtual environment name is venv)
+Run batch file (make sure that virtual environment name is .venv)
